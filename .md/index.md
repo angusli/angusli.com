@@ -1,16 +1,22 @@
-## Welcome...
+## Welcome to Angus Li's Homepage
+
 
 ### About
- - This is **Angus Li**'s Homepage
- - Written in [MarkdownPad](http://markdownpad.com/ "MarkdownPad"), hosted on [github.com](http://github.com "github.com")
+ - Has been working in [Augmentum Inc.](http://www.augmentum.com "Augmentum") since 2005
+ - Currently live in Shanghai, China
+ - Experienced area: Online Advertising, E-Commerce, Social Networking & Mobile Internet
+ - Personal slogan: Think deep, aim high.
+
 
 ### Projects & Works
  - *To be organized...*
 
-### Contact
+
+### More about me
  - [Weibo](http://weibo.com/grell "http://weibo.com/grell")
+ - [Zhihu](http://www.zhihu.com/people/angusli "http://www.zhihu.com/people/angusli")
+ - [Quora](http://www.quora.com/Angus-Li "http://www.quora.com/Angus-Li")
  - [LinkedIn](https://www.linkedin.com/in/angusli "https://www.linkedin.com/in/angusli")
 
 
-&copy; 2014 
-Angus Li
+&copy; 2015 Angus Li; hosted on [github.com](http://github.com "github.com")
